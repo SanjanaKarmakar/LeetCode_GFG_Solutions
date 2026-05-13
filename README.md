@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SanjanaKarmakar/Drake/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/SanjanaKarmakar/Drake/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SanjanaKarmakar/Drake/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanjanaKarmakar/Drake/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SanjanaKarmakar/Drake/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SanjanaKarmakar/Drake/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SanjanaKarmakar/Drake/tree/master/0021-merge-two-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SanjanaKarmakar/Drake/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
